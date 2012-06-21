@@ -27,7 +27,7 @@ b.each do |raw|
     d = c.xpath("td[not(name()='span')]")
     d.each do |x|
        outputS = x.text
-       print outputS+","
+       print outputS+"$"
     end
     print "\n\n\n\n\n\n\n"
 end
