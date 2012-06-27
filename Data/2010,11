@@ -1,0 +1,18 @@
+Distribution of services provided by the private hospitals by governorate and service kind
+GOVERNORATE,GRAPHY,Endoscopy,Chemotherapy sessions of tumors,Lithotripsy,Physiotherapy,Artificial Kidney,X - Ray,Laboratory services,Surgery operation,Outpatient clinics,Emergency
+Damascus , 12258 , 4931 ,810,124,1650,28686, 38717 , 130314 , 29316 , 35752 , 52993
+Aleppo, 2927 , 565 ,135,225,877,2308, 13145 , 23374 , 10678 , 10756 , 10187 
+ Rural Damascus , 9950 , 2598 ,0,394,1293,931, 74695 , 120956 , 58487 , 48491 , 109634 
+Homs, 19751 , 4130 ,395,570,2864,11353, 114564 , 295620 , 42146 , 162523 , 121569 
+Hama, 565 , 319 ,73,74,0,64, 4410 , 10546 , 8324 , 1454 , 3840 
+Lattakia, 105 , 19 ,0,0,0,0, 257 , 1921 , 8092 , 56 , 545 
+Idleb, 1888 , 61 ,0,0,0,0, 8208 , 8749 , 6551 , 25129 , 13214 
+Al-Hasakeh, 4727 , 343 ,0,215,5,0, 12060 , 26594 , 9818 , 1577 , 11221 
+Dir-ez-Zor, 971 , 1148 ,0,79,328,18, 12986 , 24171 , 8635 , 1495 , 1729 
+Tartous, 610 , 438 ,0,122,0,0, 12067 , 5247 , 10973 , 10256 , 2672 
+Al-Rakka, 1616 , 323 ,0,0,0,0, 6865 , 13292 , 7252 , 729 , 9651 
+Daraa, 780 , 102 ,0,72,0,0, 3647 , 12150 , 7003 , 152 , 792 
+Al-Sweida, 2357 , 57 ,0,105,0,0, 2938 , 6470 , 3234 , 135 , 2771 
+ Al-Quneitra,0,0,0,0,0,0,0,0,0,0,0
+ Total,58505,15034,1413,1980,7017,43360,304559,679404,210509,298505,340818
+
