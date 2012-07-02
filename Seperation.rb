@@ -1,3 +1,10 @@
+class String
+ def remove_non_ascii(replacement="") 
+   self.gsub(/[\u0080-\u00ff]/,replacement)
+ end
+end
+
+
 Dir.foreach("Data") {|x| 
   if (x!=".") and (x!="..")
   myFile = File.open("Data/"+x)
@@ -39,6 +46,11 @@ Dir.foreach("Data") {|x|
       while (line[0][0]==" ")
        line[0].slice!(0)
       end
+      while (line[0][line.length] == " ")
+        line[0].chomp!
+      end
+      next if (line[0][0]=="*")
+      line[0] = line[0].remove_non_ascii() if (!line[0].nil?)
       wFile.print(line[0])
       wFile.print(",")
       
@@ -46,7 +58,7 @@ Dir.foreach("Data") {|x|
       if (j==indecators.length-1) and (!line[j].nil?)
         line[j].chomp!
       end
-      
+      line[j] = line[j].remove_non_ascii() if (!line[j].nil?)
       wFile.print(line[j])
       if !(k == fileArr.length)
         wFile.print("\n")

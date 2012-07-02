@@ -1,0 +1,39 @@
+
+
+ , , , 
+TABLE 11 / 12, , , 
+YEARS,متوسط
+  أيام مكــث المـريض الــواحـد ***,مجمـوع
+  أيام المرضى الخارجين **,مجمـوع
+  أيام المرضى الداخلين *
+
+Average Length of stay per Patient  ( days ),Days of
+  discharged patients
+2002,2.36,1737268,1983883
+2003,2.29,1736252,2138552
+2004,2.201,1776178,2244386
+2005,2.12,1821502,2336152
+2006,2.28,1952374,2194645
+2007,2.33,2067056,2495208
+BY Mohafazat:, , , 
+Damascus  ,3.72,240142,269493
+Damascus Rural,3.83,238373,271653
+Aleppo,3.37,252851,374979
+Homs ,1.74,166040,196240
+Hama,2.3,187036,207583
+Lattakia,2.37,101563,124358
+Deir-ez- zor,1.83,111483,141018
+Idleb,1.51,111833,115757
+Al-Hasakeh,2.42,138998,200370
+Al-Rakka,1.78,153267,160878
+Al-Sweida,3.19,135369,161148
+Dar'a,1.15,85575,121715
+Tartous,2.04,137410,142416
+Quneitra,2.05,7116,7600
+*Total of
+  intered patients to hospitals  , 
+**Total of intered patients to hospitals Whome.spen’t one night
+  at least in hospital.
+***Its considered for patients whom.spen’t on night at least in
+  a hospital. 
+
