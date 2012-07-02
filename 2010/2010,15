@@ -1,0 +1,38 @@
+
+
+
+TABLE 15 / 12, , , , , , , , , , 
+Governorate,Hospital Name,عدد
+  مرضى جلسات الكلية الصناعية,جلسات
+  الكلية الصناعية,الجلسات
+  الكيميائية,الجلسات
+  الفيزيائية,الصور
+  الشعاعية,التحاليل
+  المخبرية,مراجعو
+  العيادات الخارجية,مراجعو
+  الإســعاف,اسم المشفى
+The number of patient artificial kidney,Artificial
+  kidney,Chemoth-erapy,Physioth-erapy,inductogram,analysis
+  laboratory,Outpatient
+  clinics 
+Damascus,AL-Mowasat,2500,15641,2414,18193,125688,1620190,140726,119035,المواساة
+University
+  Children's Hos.,240,1814,0,0,44135,540988,83311,59000
+Maternity,0,0,0,0,2161,0,4750,23920
+Dermatosis,0,0,0,0,0,1705,70000,0
+AL-asad University,881,8626,245,15204,40771,808872,51203,9144
+Cardiac
+  Surgery Center,0,0,0,0,12600,55500,5676,0
+Oral & Jawes Surgery,0,0,0,0,0,927,3173,518
+Rural Damascus,Albirony,0,0,62609,127723,125930,368660,132085,4382,البيروني
+  
+  Aleppo,Aleppo University,1873,14028,0,3180,115878,585718,40374,169097,حلب الجامعي
+Alkindy,2217,15963,7145,3797,141231,979653,63723,77148
+Maternity,0,0,0,0,947,0,8357,8882
+Cardiac Surgery Center,0,0,0,2007,4050,116953,4806,5207
+Lattakia, AL-asad University,1199,9621,0,5950,33400,722342,76070,177200,الأسد
+  الجامعي
+Educational
+  Tishreen,0,0,16652,0,0,0,0,16652
+TOTAL,8910,65693,89065,176054,646791,5801508,684254,670185
+
