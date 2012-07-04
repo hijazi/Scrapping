@@ -1,0 +1,17 @@
+Distribution of hospitals, sanitariums and beds
+Governorate,Average number of persons per bed in hospitals in total,Beds in hospitals in total,No of hospitals in total,Beds in private hospitals,No of private hospitals,Beds in puplic hospitals,No of public hospitals
+Damascus,257,6614,56,1193,35,5421,21
+Rural Damascus,666,3923,56,1302,42,2621,14
+Aleppo,823,5548,115,2230,98,3318,17
+Homs,617,2762,44,1010,31,1752,13
+Hama,787,1959,51,662,44,1297,7
+Lattakia,501,1932,25,368,17,1564,8
+Deir-ez- zor,961,1192,24,276,17,916,7
+Idleb,1317,1071,33,379,29,692,4
+AL-Hasakeh,1057,1348,32,478,27,870,5
+Al-Rakka,1094,811,12,151,7,660,5
+AL-Sweida,574,619,6,64,3,555,3
+Daraa,884,1083,16,133,6,950,10
+Tartous,549,1398,20,304,14,1094,6
+Quneitra,415,200,1,0,0,200,1
+
